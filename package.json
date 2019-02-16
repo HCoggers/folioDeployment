@@ -1,0 +1,23 @@
+{
+  "name": "foliodeployment",
+  "version": "1.0.0",
+  "description": "Basic Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCoggers/folioDeployment.git"
+  },
+  "author": "Harry Cogswell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HCoggers/folioDeployment/issues"
+  },
+  "homepage": "https://github.com/HCoggers/folioDeployment#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
